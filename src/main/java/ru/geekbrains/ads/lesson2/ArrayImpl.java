@@ -9,7 +9,6 @@ public class ArrayImpl<E extends Comparable<? super E>> implements Cloneable, Ar
     protected E[] data;
     protected int size;
 
-
     public ArrayImpl() {
         this(DEFAULT_CAPACITY);
     }

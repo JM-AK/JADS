@@ -9,9 +9,9 @@ public class MethodTest {
     }
 
     private static void testRecord() {
-        PersonRec pr1 = new PersonRec("Oleg", 15);
-        PersonRec pr2 = new PersonRec("Oleg", 15);
-        System.out.println(pr1.age());
+        Person pr1 = new Person("Oleg", 15);
+        Person pr2 = new Person("Oleg", 15);
+        System.out.println(pr1.getAge());
         System.out.println("pr1 = pr2: " + (pr1 == pr2));
         System.out.println("pr1.equals(pr2): " + (pr1.equals(pr2)));
         System.out.println(pr1);

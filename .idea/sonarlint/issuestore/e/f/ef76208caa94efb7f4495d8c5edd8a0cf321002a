@@ -1,0 +1,11 @@
+
+3
+java:S2119?"Save and re-use this "Random".(¼ÝÅf
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Õ˜éØÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(³¸ÂÙ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬š¯±
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ö•óÒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¯æúÈ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(¿„—¿
+Q	java:S1252"<This block of commented-out lines of code should be removed.(Ú½ô½
+Q	java:S1259"<This block of commented-out lines of code should be removed.(ÌÁÓÏ

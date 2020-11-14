@@ -1,0 +1,22 @@
+
+`
+java:S1192"JDefine a constant instead of duplicating this literal "Person = " 4 times.(­º·ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»ÆóÀûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´¡ğÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö—×„ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä«ã‚úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­º·ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó½ê¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”é¯Î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·”¦ûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(­º·ó
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(­º·ó
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ä•´ıÿÿÿÿ
+E
+java:S1144"/Remove this unused private "testObject" method.(•™¹È
+M
+java:S1144&"2Remove this unused private "testPrimitive" method.(ûÇâŒÿÿÿÿÿ
